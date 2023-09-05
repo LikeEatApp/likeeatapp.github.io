@@ -299,7 +299,7 @@ p {
     margin-bottom: 15px;
 }
 
-@media(max-width:991px) {
+@media(max-width:900px) {
     
     .menu {
         padding: 30px;
